@@ -1,5 +1,6 @@
-# ANN_tutorial -- ICT for Smart Grids
+# ANN_tutorial -- ICT for Smart Grids, Deutsche Telekom Chair of Communication Networks, TU Dresden
 ## Lecture 11
+## Author: Riccardo Bonetto
 an implementation of a generic feed forward ANN framework (for tutorial purposes)
 
 This is a jupyter notebook showing a vanilla implementation of a general ANN framework. 
