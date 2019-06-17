@@ -8,4 +8,4 @@ only on numpy. It uses automatic differentiation and can be extended to support 
 activation and cost functions.
 
 The scope of this implementation is not efficiency (nor numerical stability), but it is 
-meant to show ehat happens behind the curtains" of more advanced implementations.
+meant to show what happens behind the curtains" of more advanced implementations.
