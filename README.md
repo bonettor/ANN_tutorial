@@ -9,3 +9,5 @@ activation and cost functions.
 
 The scope of this implementation is not efficiency (nor numerical stability), but it is 
 meant to show what happens behind the curtains" of more advanced implementations.
+
+##  SEE THE JUPYTER NOTEBOOK FOR MORE DETAILS
